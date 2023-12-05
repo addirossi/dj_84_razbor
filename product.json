@@ -1,0 +1,11 @@
+{
+  "category": "Бытовая техника",
+  "products": [
+    {
+      "name": "Холодильник LG NoFrost",
+      "description": "....",
+      "price": "20000.00",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_25_693_0_1.jpg"
+    }
+  ]
+}
